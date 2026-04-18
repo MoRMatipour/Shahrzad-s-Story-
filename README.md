@@ -88,8 +88,3 @@ By combining storytelling with carefully integrated data, the narrative emphasiz
 
 Ultimately, the project highlights the importance of global awareness and solidarity in shaping understanding and driving meaningful attention to critical issues.
 
-
-## 📁 Repository Contents  
-- Storyboard document / visuals  
-- Iteration sketches and notes  
-- Final narrative structure  
