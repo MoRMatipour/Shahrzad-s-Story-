@@ -6,6 +6,7 @@ This project presents a human centered data story that explores the emotional an
 The narrative follows *Shahrzad*, an Iranian student living abroad, who experiences the consequences of political events in her home country from a distance. The project highlights how data points such as internet shutdowns and reported casualties are not just abstract figures, but lived experiences that deeply affect individuals, identity, and human connection.  
 
 The goal of this project is to humanize data and demonstrate how storytelling can bridge the gap between statistics and real-world impact.
+You can see the whole story here [View the full story](https://github.com/MoRMatipour/Shahrzad-s-Story-/blob/main/Story%20PDF/Shahrzad's%20Story.pdf)
 
 ![Storyboard Scene 1](https://github.com/MoRMatipour/Shahrzad-s-Story-/blob/main/Screens/Screenshot%202026-04-18%20133431.png?raw=true)  
 
@@ -72,7 +73,7 @@ The project intentionally avoids complex visualizations, using simple visuals an
 
 ---
 
-## 💡 Key Takeaways  
+## Key Takeaways  
 - Data becomes more impactful when placed within a human context
 - Storytelling enhances understanding and emotional engagement  
 - Visual pacing can guide audience perception and interpretation  
@@ -80,7 +81,7 @@ The project intentionally avoids complex visualizations, using simple visuals an
 
 ---
 
-## 🧠 Reflection  
+## Reflection  
 This project demonstrates that political crises are not isolated or abstract—they extend into the everyday lives of individuals across the world.  
 
 By combining storytelling with carefully integrated data, the narrative emphasizes that behind every statistic are real people experiencing fear, uncertainty, and hope.  
